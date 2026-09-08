@@ -203,10 +203,6 @@
   - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `클라우드`
   - 주최: Docker User Group Korea
   - 접수: 08. 17(월) ~ 09. 16(수) 00:00
-- __[원티드 AI Championship 2026](https://event.wanted.co.kr/ai-championship/2026)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 원티드랩
-  - 접수: 08. 24(월) ~ 09. 18(금)
 - __[[보안 웨비나] 모바일 앱 서비스, 어디서 뚫리는가? AI 시대의 실전 보안 위협과 대응 전략](https://event-us.kr/doverunner/event/133462)__
   - 분류: `온라인`, `무료`, `세미나`, `기술일반`
   - 주최: 도브러너
@@ -287,6 +283,10 @@
   - 분류: `온라인`, `무료`, `대회`, `블록체인`
   - 주최: Midnight Korea
   - 접수: 09. 01(화) ~ 09. 27(일)
+- __[if(kakao)26](https://if.kakao.com/2026)__
+  - 분류: `온라인`, `오프라인(경기 용인)`, `무료`, `세미나`, `AI`, `기술일반`
+  - 주최: 카카오
+  - 접수: 09. 07(월) ~ 09. 28(월) 12:00
 - __[Ethereum Korea One Genesis - Build Beyond the Narrative](https://luma.com/0a4zc5a6)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `블록체인`
   - 주최: Ethereum Collective Korea / Nonce Classic
